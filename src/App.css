@@ -239,7 +239,7 @@ button:hover ~ .cursor-follower {
   gap: 2rem;
   padding: 3rem 2rem 5rem;
   background-color: #f0f4ff;
-  max-width: 1200px;
+  max-width: 12000px;
   margin: 0 auto;
 }
 
